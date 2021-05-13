@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+.mySlides {
+  display: none;
+}
+.button {
+  font-size: 3rem;
+  border: none;
+  cursor: pointer;
+}
+.left {
+  position: absolute;
+  top: 50%;
+  left: 2%;
+}
+.right {
+  position: absolute;
+  top: 50%;
+  right: 2%;
+}
